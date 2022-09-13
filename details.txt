@@ -1,3 +1,3 @@
 Address, details of the customer has been stored.
-Name = ranjanii
+Name = Ranjanii
 Phone number = 0987654320
