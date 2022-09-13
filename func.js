@@ -1,6 +1,5 @@
 function display(){
-    console.log("Hello.. there!!");
-    console.log("Amy here..!!");
+    console.log("Hello.. there!!\nAmy here..!!");
 }
 
 display();
