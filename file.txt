@@ -1,1 +1,1 @@
-This file has to be renamed.
+This file contains the product details.
