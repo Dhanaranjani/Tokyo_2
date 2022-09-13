@@ -1,5 +1,5 @@
-function display(){
+function print(){
     console.log("Hello.. there!!\nAmy here..!!");
 }
 
-display();
+print();
