@@ -1,1 +1,1 @@
-Address and details of the customer has been stored.
+Address, details of the customer has been stored.
