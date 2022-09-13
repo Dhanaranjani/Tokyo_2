@@ -1,1 +1,1 @@
-Name, due date of the product are stored in this file.
+Name, due date of the product are stored.
