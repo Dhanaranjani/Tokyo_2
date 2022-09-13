@@ -1,4 +1,4 @@
-function display(){
+function show(){
     console.log("Hello.. there!!");
 }
 
